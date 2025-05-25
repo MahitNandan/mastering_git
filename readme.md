@@ -1,3 +1,3 @@
-## hello git
-
+## Heyo welcome to my git guide
+yo johnny here
 I'm adding this from feature-branch
